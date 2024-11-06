@@ -1,0 +1,14 @@
+pandas
+boto3
+langchain-core
+langchain-openai
+langchain-experimental
+langchain-community
+langchain-tools
+langgraph
+pinecone-client
+langchain-pinecone
+pydantic 
+tabulate
+fuzzywuzzy
+python-dotenv
